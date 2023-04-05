@@ -50,5 +50,3 @@ function LeftNav() {
 }
 
 export default LeftNav;
-
-// hr them ----------------------------------------- gach ngang
